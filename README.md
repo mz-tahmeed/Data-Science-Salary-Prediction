@@ -1,4 +1,4 @@
-# Data-Science-Salary-Prediction
+# Data Science Salary Estimator(Canada): Project Overview
 
 ## Code and Resources Used
 
